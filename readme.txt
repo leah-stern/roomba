@@ -15,7 +15,9 @@ example,
 
     python3 CLI_roomba.py -c general -c spot
 
-will tell the Roomba to do both general cleaning and spot cleaning.
+will tell the Roomba to do both general cleaning and spot cleaning. The program will
+greet the user and then report the status of its traversal of each node in the
+behavior tree.
 
 ##### Background information
 I created this program for an assignment on behavior trees in an artificial intelligence
